@@ -1,0 +1,17 @@
+{
+  "name": "news-cli-app",
+  "version": "1.0.0",
+  "description": "An interactive news cli",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Trau",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "met": "0.0.3",
+    "newsapp": "file:../custom-module",
+    "yargs": "^13.2.2"
+  }
+}
