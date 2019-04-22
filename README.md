@@ -14,6 +14,6 @@ node cli.js search -k bitcoin
 
 After selecting an article, a summary appears.
 
-![Example 2] (images/example2.png?raw=true)
+![Example 2](images/example2.png?raw=true)
 
 
